@@ -1,0 +1,1 @@
+modulex.config("requires",{"dd":["util","base","ua","node","event-dom/gesture/basic","event-dom/gesture/pan"]});

@@ -1,0 +1,28 @@
+{
+    "name": "modulex-dd",
+    "author": "yiminghe <yiminghe@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/kissyteam/dd.git"
+    },
+    "ignore": [
+        "**/*",
+        "!build/**/*",
+        "!lib/**/*",
+        "!meta/**/*",
+        "!index.js"
+    ],
+    "dependencies": {
+        "modulex": "modulex#master",
+        "modulex-feature": "modulex-feature#master",
+        "modulex-ua": "modulex-ua#master",
+        "modulex-base": "modulex-base#master",
+        "modulex-util": "modulex-util#master",
+        "modulex-node": "modulex-node#master",
+        "modulex-event-dom": "modulex-event-dom#master"
+    },
+    "devDependencies": {
+        "modulex-io": "*"
+    }
+}

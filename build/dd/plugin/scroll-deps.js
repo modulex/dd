@@ -1,0 +1,1 @@
+modulex.config("requires",{"dd/plugin/scroll":["util","node","dd","base"]});
