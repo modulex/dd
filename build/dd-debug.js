@@ -1,3 +1,8 @@
+/*
+Copyright 2014, modulex-dd@1.0.1
+MIT Licensed
+build time: Thu, 16 Oct 2014 07:15:25 GMT
+*/
 modulex.add("dd", ["util","base","ua","node","event-dom/gesture/basic","event-dom/gesture/pan"], function(require, exports, module) {
 var _util_ = require("util");
 var base = require("base");
@@ -1101,6 +1106,7 @@ ddDroppableDelegate = function (exports) {
 dd = function (exports) {
   var DDM = ddDdm, Draggable = ddDraggable, DraggableDelegate = ddDraggableDelegate, DroppableDelegate = ddDroppableDelegate, Droppable = ddDroppable;
   exports = {
+    version: '1.0.1',
     Draggable: Draggable,
     DDM: DDM,
     Droppable: Droppable,

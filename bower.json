@@ -14,15 +14,15 @@
         "!index.js"
     ],
     "dependencies": {
-        "modulex": "modulex#master",
-        "modulex-feature": "modulex-feature#master",
-        "modulex-ua": "modulex-ua#master",
-        "modulex-base": "modulex-base#master",
-        "modulex-util": "modulex-util#master",
-        "modulex-node": "modulex-node#master",
-        "modulex-event-dom": "modulex-event-dom#master"
+        "modulex": "*",
+        "modulex-feature": "modulex-feature#1.x",
+        "modulex-ua": "modulex-ua#1.x",
+        "modulex-base": "modulex-base#1.x",
+        "modulex-util": "modulex-util#1.x",
+        "modulex-node": "modulex-node#1.x",
+        "modulex-event-dom": "modulex-event-dom#1.x"
     },
     "devDependencies": {
-        "modulex-io": "*"
+        "modulex-io": "1.x"
     }
 }

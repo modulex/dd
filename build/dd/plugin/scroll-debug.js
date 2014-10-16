@@ -1,3 +1,8 @@
+/*
+Copyright 2014, modulex-dd@1.0.1
+MIT Licensed
+build time: Thu, 16 Oct 2014 07:15:25 GMT
+*/
 modulex.add("dd/plugin/scroll", ["util","node","dd","base"], function(require, exports, module) {
 var _util_ = require("util");
 var _node_ = require("node");
