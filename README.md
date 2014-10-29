@@ -1,6 +1,6 @@
 # dd
 
-
+drag and drop utilities
 
 [![dd](https://nodei.co/npm/modulex-dd.png)](https://npmjs.org/package/modulex-dd)
 [![NPM downloads](http://img.shields.io/npm/dm/modulex-dd.svg)](https://npmjs.org/package/modulex-dd)
